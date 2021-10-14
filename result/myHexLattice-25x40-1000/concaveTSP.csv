@@ -1,0 +1,6 @@
+﻿"Algo","ResultId","Time(sec)","TourCost","AWDfromVTX1","MinAWD","DelEdgeP"
+"concaveRingMergeNearestPtV2","1","0.09","10455.246","5229.652","5227.945","100"
+"concaveRingMergeNearestPtV2","2","0.077","10455.246","5229.652","5227.945","100"
+"concaveRingMergeNearestPtV2","3","0.066","10455.246","5229.652","5227.945","100"
+"concaveRingMergeNearestPtV2","AVG","0.078","10455.246","5229.652","5227.945","100"
+"concaveRingMergeNearestPtV2","STD","0.012","0","0","0","0"
