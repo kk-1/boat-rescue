@@ -4,6 +4,7 @@ There are 2 dirs:
 data: 
 -----------
 Contains lattice point data sets in TSPLIB format.
+For each dataset eps files show the vertex configuration.
 
 result: 
 -----------
