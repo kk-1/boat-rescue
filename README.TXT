@@ -1,7 +1,7 @@
  
 This repo contains the data files and results for our paper:
 
-K. I. Kilic and L. Mostarda, "Heuristic Drone Pathfinding Over Optimized Charging Station Grid," in IEEE Access, vol. 9, pp. 164070-164089, 2021, doi: 10.1109/ACCESS.2021.3134459.
+K. I. Kilic and L. Mostarda, "Heuristic Drone Pathfinding Over Optimized Charging Station Grid," in IEEE Access, vol. 9, pp. 164070-164089, 2021, doi: https://doi.org/10.1109/ACCESS.2021.3134459
 
 Bibtex:
 --------------------------------------------------------------------------------
