@@ -33,6 +33,9 @@ Row and column headers are the names of the algorithms.
 1 represents statistically significant difference
 0 represents no statistically significant difference
 
+
+boat-rescue-GUI.png: The screen shot of the simulator GUI developed.
+
 -------------------------------------------------------------------------------- 
 If you want to check out more files about the TSP algorithm please go to:
 https://github.com/kk-1/tsp
