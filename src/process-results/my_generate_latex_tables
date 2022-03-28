@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo "Generating latex tables"
+Rscript --vanilla my_get_latex_from_results-script-V1.R
+echo "Done!"

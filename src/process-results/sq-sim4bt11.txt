@@ -1,0 +1,29 @@
+% latex table generated in R 4.1.3 by xtable 1.8-4 package
+% Mon Mar 28 14:49:18 2022
+\begin{table}[ht]
+\centering
+\caption{Simulation results for square grid.
+                          Savings are for Red-Gray heuristics over only Gray edge usage.
+                          Approximation ratios and Speed-ups are over Brute-Force method. 11 boats randomly generated for 4 simulations.
+                          Results are in the form of mean my-pm standard deviation.} 
+\label{sq-sim4bt11}
+\begin{tabular}{lllll}
+  \hline
+Algo & Sq-concaveTSPGray & Sq-xTSPGray-farthest\_insertion & Sq-xTSPGray-nn & Sq-xTSPGray-two\_opt \\ 
+  \hline
+Algo & Sq-concaveTSPGray & Sq-xTSPGray-farthest\_insertion & Sq-xTSPGray-nn & Sq-xTSPGray-two\_opt \\ 
+  RG Cost & 261295.016 my-pm 11654.221 & 252692.923 my-pm 21570.668 & 271361.675 my-pm 15793.211 & 255143.766 my-pm 11914.409 \\ 
+  G Cost & 296594.387 my-pm 21185.316 & 282747.76 my-pm 15717.808 & 308868.415 my-pm 43741.8 & 290051.784 my-pm 13014.94 \\ 
+  Cost Saving \% & 11.724 my-pm 4.273 & 10.691 my-pm 4.484 & 11.243 my-pm 8.914 & 12.008 my-pm 2.842 \\ 
+  RG Time & 0.071 my-pm 0.002 & 0.068 my-pm 0.009 & 0.067 my-pm 0.006 & 0.063 my-pm 0.005 \\ 
+  G Time & 0.061 my-pm 0.01 & 0.056 my-pm 0.01 & 0.056 my-pm 0.012 & 0.052 my-pm 0.005 \\ 
+  Time Saving \% & -18.243 my-pm 15.346 & -23.319 my-pm 27.961 & -23.236 my-pm 22.242 & -21.179 my-pm 1.837 \\ 
+  RG AWD & 120324.501 my-pm 11969.31 & 124070.973 my-pm 24287.156 & 134685.408 my-pm 12122.016 & 125359.976 my-pm 14868.486 \\ 
+  G AWD & 135325.705 my-pm 13468.913 & 131234.567 my-pm 6357.159 & 144911.789 my-pm 19435.761 & 134818.745 my-pm 5375.322 \\ 
+  AWD Saving \% & 10.928 my-pm 5.54 & 4.962 my-pm 21.729 & 5.969 my-pm 13.519 & 7.221 my-pm 7.543 \\ 
+  RG NCharging & 16.25 my-pm 0.957 & 15.5 my-pm 1.291 & 16.25 my-pm 0.957 & 15.75 my-pm 0.957 \\ 
+  G NCharging & 21.25 my-pm 2.062 & 20 my-pm 1.414 & 21.5 my-pm 2.646 & 21 my-pm 1.414 \\ 
+  NCharging Saving \% & 23.012 my-pm 8.649 & 22.41 my-pm 5.647 & 23.7 my-pm 9.254 & 24.752 my-pm 6.881 \\ 
+   \hline
+\end{tabular}
+\end{table}

@@ -33,6 +33,13 @@ Row and column headers are the names of the algorithms.
 1 represents statistically significant difference
 0 represents no statistically significant difference
 
+src:
+-----------
+The simulator written in R (run it from RStudio) and
+info for processing the simulation results.
+There is reame file in this dir.
+
+
 
 boat-rescue-GUI.png: The screen shot of the simulator GUI developed.
 
