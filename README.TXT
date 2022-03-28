@@ -1,7 +1,28 @@
  
-This repo contains the data files and results for our paper:
+This repo contains the data files and results for our papers:
 
-K. I. Kilic and L. Mostarda, "Heuristic Drone Pathfinding Over Optimized Charging Station Grid," in IEEE Access, vol. 9, pp. 164070-164089, 2021, doi: https://doi.org/10.1109/ACCESS.2021.3134459
+
+Kilic, K.I., Mostarda, L. (2021). Optimum Path Finding Framework for Drone Assisted Boat Rescue Missions. 
+In: Barolli, L., Woungang, I., Enokido, T. (eds) Advanced Information Networking and Applications. AINA 2021. 
+Lecture Notes in Networks and Systems, vol 227. Springer, Cham. doi: https://doi.org/10.1007/978-3-030-75078-7_23
+
+Bibtex:
+--------------------------------------------------------------------------------
+@InProceedings{10.1007/978-3-030-75078-7_23,
+author="Kilic, Kemal Ihsan and Mostarda, Leonardo",
+editor="Barolli, Leonard and Woungang, Isaac and Enokido, Tomoya",
+title="Optimum Path Finding Framework for Drone Assisted Boat Rescue Missions",
+booktitle="Advanced Information Networking and Applications",
+year="2021",
+publisher="Springer International Publishing",
+address="Cham",
+pages="219--231"
+doi={10.1007/978-3-030-75078-7_23}
+}
+-------------------------------------------------------------------------------- 
+
+K. I. Kilic and L. Mostarda, "Heuristic Drone Pathfinding Over Optimized Charging Station Grid," 
+in IEEE Access, vol. 9, pp. 164070-164089, 2021, doi: https://doi.org/10.1109/ACCESS.2021.3134459
 
 Bibtex:
 --------------------------------------------------------------------------------
@@ -13,7 +34,8 @@ Bibtex:
   volume={9},
   number={},
   pages={164070-164089},
-  doi={10.1109/ACCESS.2021.3134459}}
+  doi={10.1109/ACCESS.2021.3134459}
+}
 -------------------------------------------------------------------------------- 
 
 
