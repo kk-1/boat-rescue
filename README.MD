@@ -1,5 +1,5 @@
  
-This repo contains the data files and results for our papers: 
+#This repo contains the data files and results for our papers: 
 
 --- 
 
@@ -73,7 +73,7 @@ There is reame file in this dir.
 --- 
 
 boat-rescue-GUI.png: The screen shot of the simulator GUI developed.  
-![Simulator GUI](boat-rescue.png)
+![Simulator GUI](https://github.com/kk-1/boat-rescue/blob/main/boat-rescue.png?raw=true)
   
 
 --- 
