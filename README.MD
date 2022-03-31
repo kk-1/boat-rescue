@@ -1,14 +1,14 @@
  
-# This repo contains the data files and results for our papers: 
+This repo contains the data files and results for our papers: 
+--------------------------------------------------------------------------------
 
---- 
 
 Kilic, K.I., Mostarda, L. (2021). Optimum Path Finding Framework for Drone Assisted Boat Rescue Missions. 
 In: Barolli, L., Woungang, I., Enokido, T. (eds) Advanced Information Networking and Applications. AINA 2021. 
 Lecture Notes in Networks and Systems, vol 227. Springer, Cham. doi: https://doi.org/10.1007/978-3-030-75078-7_23
 
 Bibtex:
-
+--------------------------------------------------------------------------------  
 ```latex
 @InProceedings{10.1007/978-3-030-75078-7_23,
 author="Kilic, Kemal Ihsan and Mostarda, Leonardo",
@@ -22,14 +22,13 @@ pages="219--231"
 doi={10.1007/978-3-030-75078-7_23}
 }
 ```
-
---- 
+--------------------------------------------------------------------------------  
 
 K. I. Kilic and L. Mostarda, "Heuristic Drone Pathfinding Over Optimized Charging Station Grid," 
 in IEEE Access, vol. 9, pp. 164070-164089, 2021, doi: https://doi.org/10.1109/ACCESS.2021.3134459
 
 Bibtex:
-
+--------------------------------------------------------------------------------  
 ```latex
 @ARTICLE{9645571,
   author={Kilic, Kemal Ihsan and Mostarda, Leonardo},
@@ -42,8 +41,8 @@ Bibtex:
   doi={10.1109/ACCESS.2021.3134459}
 }
 ```
+--------------------------------------------------------------------------------  
 
---- 
 
 
 In this repo, there are 3 dirs: 
