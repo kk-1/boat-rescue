@@ -72,7 +72,7 @@ There is reame file in this dir.
 --- 
 
 boat-rescue-GUI.png: The screen shot of the simulator GUI developed.  
-![Simulator GUI](https://github.com/kk-1/boat-rescue/blob/main/boat-rescue.png?raw=true)
+![Simulator GUI](https://github.com/kk-1/boat-rescue/blob/main/boat-rescue-GUI.png?raw=true)
   
 
 --- 
