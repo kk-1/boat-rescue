@@ -48,12 +48,12 @@ Bibtex:
 In this repo, there are 3 dirs: 
 
 --- 
-data: 
+**data:** 
 
 Contains lattice point data sets in TSPLIB format.
 For each dataset eps files show the vertex configuration.
 
-result: 
+**result:** 
 
 For each data sets contains results of the benchmarks in csv format.
 The text files are results of the t-test.
@@ -62,7 +62,7 @@ Row and column headers are the names of the algorithms.
 1 represents statistically significant difference
 0 represents no statistically significant difference
 
-src:
+**src:** 
  
 The simulator written in R (run it from RStudio) and
 info for processing the simulation results.
