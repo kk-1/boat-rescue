@@ -66,7 +66,7 @@ Row and column headers are the names of the algorithms.
  
 The simulator written in R (run it from RStudio) and
 info for processing the simulation results.
-There is reame file in this dir.
+There is "readme" file in this dir.
 
 
 --- 
